@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Discord-Token/Discord-Token-Generator.git"
+    "url": "git+https://github.com/icenajaeiei/gen-wtf-lol.git"
   },
   "author": "Nongicesocute",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Discord-Token/Discord-Token-Generator/issues"
+    "url": "https://github.com/icenajaeiei/gen-wtf-lol/issues"
   },
   "dependencies": {
     "axios": "^0.23.0",
