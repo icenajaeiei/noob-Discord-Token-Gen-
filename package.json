@@ -10,12 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/Discord-Token/Discord-Token-Generator.git"
   },
-  "author": "Dollar3795",
+  "author": "Nongicesocute",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/Discord-Token/Discord-Token-Generator/issues"
   },
-  "homepage": "https://t.me/DollarNoob",
   "dependencies": {
     "axios": "^0.23.0",
     "fs": "^0.0.1-security",
