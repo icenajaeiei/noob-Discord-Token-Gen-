@@ -2,7 +2,7 @@
 
 ## How to use
 ```npx playwright install```
-(no proxy)(email verify)
+(no proxy)(email verify)/n
 *this repo just recode for new patch of discord
  u can use my source for educate , or recode^^*
 
