@@ -1,5 +1,4 @@
-##PATCHED
-ใช้ไม่ได้แล้ววว
+## PATCHED
 
 ## How to use
 ```npx playwright install```
